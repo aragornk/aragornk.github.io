@@ -177,11 +177,13 @@ li {
 
 img.figure {
     display: block;
-    max-width: inherit;
+    max-width: 46rem;
     margin-top: 2rem;
     margin-bottom: 2rem;
-    margin-left: inherit;
-    margin-right: inherit;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
 }
 
 .footnote {
