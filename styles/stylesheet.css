@@ -173,13 +173,13 @@ li {
     margin-left: -2.5rem;
 }
 
-.article img {
+img.figure {
     display: block;
-    max-width: 45rem;
+    max-width: inherit;
     margin-top: 2rem;
     margin-bottom: 2rem;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: inherit;
+    margin-right: inherit;
 }
 
 .footnote {
