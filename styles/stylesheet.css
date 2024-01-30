@@ -42,7 +42,6 @@ body {
 
 .topnav p.title {
     color: #f5f5f5;
-    text-decoration: underline;
     font-family: "EB Garamond Small Caps", serif;
 }
 
@@ -53,7 +52,7 @@ body {
 .topnav img {
     height: 90%;
     max-width: 4em;
-    padding-top: 0.3em;
+    padding-top: 0.2em;
     margin-top: none;
 }
 
@@ -63,7 +62,7 @@ body {
     margin-top: 0.9em;
     margin-bottom: auto;
     height: 2em;
-    color: #aaaaaa
+    color: #aaaaaa;
 }
 
 .article {
@@ -177,11 +176,13 @@ li {
 img.figure {
     display: block;
     width: 100%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
     padding-left: 0.5rem;
     padding-right: 0.5rem;
 }
 
-.footnote {
+.button {
     font-size: calc(0.7rem + 0.4vw);
     border: 0.1em;
     border-style: solid;
@@ -189,12 +190,12 @@ img.figure {
     border-color: #be89f4;
     padding-left: 0.6em;
     padding-right: 0.6em;
-    vertical-align: text-bottom;
+    padding-top: 0.2em;
     color: #202020;
     text-decoration: none;
 }
 
-.footnote:hover {
+.button:hover {
     background-color: #be89f4;
     /* background-color: #7647a5; */
     color: #f5f5f5;
@@ -216,7 +217,7 @@ a img {
 a img.monograph {
     width: 20%;
     text-align: right;
-    margin-right: calc(0.4rem + 0.4vw);
+    margin-right: calc(0rem + 0.4vw);
 }
 
 /* Miscellaneous Styling */
