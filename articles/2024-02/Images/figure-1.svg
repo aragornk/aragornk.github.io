@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="185.24426mm"
+   height="17.177492mm"
+   viewBox="0 0 185.24426 17.177492"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ArrowWide"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1" />
+    </marker>
+    <rect
+       x="298.09454"
+       y="228.71458"
+       width="156.94221"
+       height="42.106449"
+       id="rect3" />
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path1-4" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-13.933397,-37.933867)">
+    <g
+       id="g5"
+       transform="matrix(1.5254145,0,0,1.5254145,-42.467763,-42.232857)"
+       inkscape:export-filename="figure-1.svg"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+         x="39.481026"
+         y="59.659107"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="39.481026"
+           y="59.659107">Object</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#202020;stroke-width:0.239812;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4"
+         width="23.174507"
+         height="11.021057"
+         x="37.094223"
+         y="52.673965" />
+    </g>
+    <g
+       id="g6"
+       transform="matrix(1.5254145,0,0,1.5254145,-40.948578,-41.618051)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,2.1935943,-7.3046891)"
+         id="text3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect3);fill:#000000"><tspan
+           x="298.09375"
+           y="250.98154"
+           id="tspan2">Sign</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#202020;stroke-width:0.239812;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4-8"
+         width="23.174507"
+         height="11.021057"
+         x="75.442459"
+         y="52.270924" />
+    </g>
+    <g
+       id="g7"
+       transform="matrix(1.5254145,0,0,1.5254145,-38.371172,-56.104757)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583"
+         x="117.71877"
+         y="68.576576"
+         id="text4"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="stroke-width:0.264583"
+           x="117.71877"
+           y="68.576576">Interpretant</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#202020;stroke-width:0.323249;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4-8-5"
+         width="42.427094"
+         height="10.93762"
+         x="113.13869"
+         y="61.80954" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#202020;stroke-width:0.762707;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWide)"
+       d="M 50.388294,46.522614 H 72.673336"
+       id="path7" />
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#202020;stroke-width:0.762707;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWide-6)"
+       d="m 110.46162,46.522614 h 22.28504"
+       id="path7-7" />
+  </g>
+</svg>

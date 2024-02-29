@@ -85,7 +85,8 @@ h1 {
 h2 {
     font-size: calc(1.1rem + 0.8vw);
     font-weight: bold;
-    margin-bottom: 0em;
+    text-decoration: underline;
+    margin-bottom: 0.5em;
     margin-top: 0em;
 }
 
@@ -106,8 +107,9 @@ h3 {
 }
 
 h4 {
-    font-size: (1rem + 1vw);
+    font-size: calc(1rem + 0.8vw);
     font-weight: bold;
+    margin-bottom: 0em;
 }
 
 p {
@@ -127,6 +129,16 @@ p+p {
     text-indent: 1.2em;
 }
 
+p.figure+p {
+    text-indent: 0em;
+    margin-top: 1em;
+}
+
+.figure{
+    font-size: calc(0.9rem + 0.4vw);
+    text-align: center;
+}
+
 .signature {
     font-family: "EB Garamond Small Caps", serif;
     font-size: calc(0.9rem + 0.4vw);
@@ -138,7 +150,7 @@ p+p {
 }
 
 i {
-    font-size: calc(1rem + 0.4vw);
+    font-size: inherit;
     padding-right: 0.1em;
 }
 
